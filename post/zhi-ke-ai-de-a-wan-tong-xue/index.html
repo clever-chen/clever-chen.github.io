@@ -254,7 +254,7 @@
                         src='https://clever-chen.github.io/media/images/music.png' alt="音乐播放器" class="musicbtn"></i></a>
         </div>
         <div class="avatar-border">
-            <img src="https://clever-chen.github.io/images/avatar.png?v=1623507673549" class="avatar">
+            <img src="https://clever-chen.github.io/images/avatar.png?v=1623508094379" class="avatar">
         </div>
         <div class="sitename">一悲秘密基地</div>
         <span class="description" data-text='["你坐明堂上，莫要沾风雪"]'>&nbsp;</span>
@@ -750,7 +750,7 @@
             imglazyloadinit();
             lazyload();
             codeinit();
-            if ("default" == "twikoo") {
+            if ("valine" == "twikoo") {
                 //twikoo头像更换
                 setTimeout(replaceAvatar, 3000);
                 setTimeout(replaceAvatar, 8000); //部分博主站点速度加载过慢，再添加一个延迟
@@ -1075,30 +1075,7 @@ menulist.eq(i).show();
                         <div class="commentcontainer">
                             
                                 
-                                    
-                                        <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
-<script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
-
-<div id="gitalk-container"></div>
-
-<script>
-
-  var gitalk = new Gitalk({
-    clientID: '1bc2281f5ce48c67c4ac',
-    clientSecret: 'f4d6166d9f1abd1e85cc0363c49894d84623a694',
-    repo: 'clever-chen.gothub.io',
-    owner: 'clever-chen',
-    admin: ['clever-chen'],
-    id: (location.pathname).substring(0, 49),      // Ensure uniqueness and length less than 50
-    distractionFreeMode: false  // Facebook-like distraction free mode
-  })
-
-  gitalk.render('gitalk-container')
-
-</script>
-
-                                    
-                                    
+                                    <p>请到客户端“主题--自定义配置--配置”中填入leancloud_appID和key</p>
                                 
                             
                         </div>
