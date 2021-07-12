@@ -3106,11 +3106,35 @@ a {
   color: white;
 }
 
+      .posttitlewithoutimg {
+        color: #66d9e8;
+      }
+    
       .sitename {
         color: #66d9e8;
       }
     
         .describtion {
-          color: #f8f9fa;
+          color: #66d9e8;
+        }
+      
+        .menubutton {
+          color: #66d9e8;
+        }
+
+        .menubutton:visited{
+          color: #66d9e8;
+        }
+      
+        .posttitle {
+          color: #66d9e8;
+        }
+      
+        #sitegotimeDate,#sitegotimes,#footinfo,#footinfo a{
+          color: #66d9e8;
+        }
+      
+        .mobiledescribtion{
+          color: #66d9e8;
         }
       
