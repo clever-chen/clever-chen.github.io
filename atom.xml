@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://clever-chen.github.io</id>
     <title>一悲秘密基地</title>
-    <updated>2021-07-22T14:21:05.946Z</updated>
+    <updated>2021-08-01T14:24:14.692Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://clever-chen.github.io"/>
     <link rel="self" href="https://clever-chen.github.io/atom.xml"/>
@@ -10,6 +10,26 @@
     <logo>https://clever-chen.github.io/images/avatar.png</logo>
     <icon>https://clever-chen.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 一悲秘密基地</rights>
+    <entry>
+        <title type="html"><![CDATA[八月]]></title>
+        <id>https://clever-chen.github.io/post/ba-yue/</id>
+        <link href="https://clever-chen.github.io/post/ba-yue/">
+        </link>
+        <updated>2021-08-01T14:23:02.000Z</updated>
+        <content type="html"><![CDATA[<p>昨晚头痛，很早就上了床，睡前祈祷能有个好觉。吃完药，看了会书就开始异世界大冒险。<br>
+梦里的时间泛泛。<br>
+醒来是隔壁家大锤小锤的砸墙，电钻工具声嗡嗡作响，一瞬间像敲锣打鼓的迎亲队。<br>
+这时，手机上是星期日，5：35，八月一日。<br>
+很好，是个不太令人愉悦的早晨，吃掉最后一份酸奶和面包，上午忙忙碌碌，挠挠头发，实现了想要蛮久的小功能，心情还算偷税。<br>
+下午着手复习java的时候发现，之前的java笔记被误删（复习动力-99999），硬着头皮看了几个小时，耐心消磨完就去逛scp站。<br>
+看了几篇后被母亲大人忽悠去超市。<br>
+早上起来没有洗头发，秉着苏北没朋友的想法，顶着稍乱的中分扯一份口罩就出门了，这是来南通一个月里第二次出门。<br>
+超市还是上一次来过超市，零食却少买了很多，母亲大人一边抱怨越大越挑食，一边给推荐那些她也不是很喜欢的零食。<br>
+大多数都被一悲拒绝。<br>
+嗯，已经瘦了五斤。<br>
+吃完晚饭，天还没黑，窗外的蓝天白云和记忆力的蓝天白云大差不差。伸个拦腰，抽出一瓶可乐，拧开的气泡好似向夏天捅了一把水果刀。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[少年你别急，未来尚可期]]></title>
         <id>https://clever-chen.github.io/post/shao-nian-ni-bie-ji-wei-lai-shang-ke-qi/</id>
